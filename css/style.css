@@ -1,0 +1,40 @@
+
+header {
+    margin-top: fill;
+    height: auto;
+    padding: 10px;
+}
+
+main {
+    padding: 50% 100px;
+    height: 400px;
+    width: 200px;
+}
+
+footer {
+    margin-bottom: fill;
+    height: auto;
+    padding: 10px;
+
+}
+
+@media screen and (max-width: 768px) {
+    headerclass {
+        border: 1px solid black;
+
+    }
+    main {
+        border: 2px solid black;
+    }
+
+    footerclass {
+        border:1px solid black;
+    }
+
+}
+
+@media screen and (min-width: 768px) {
+    headerclass{
+        border:1px solid black;
+    }
+}
