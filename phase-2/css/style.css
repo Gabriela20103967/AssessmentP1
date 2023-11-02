@@ -59,7 +59,7 @@ footer {
 }
 
 
-@media (min-width: 640px) {
+@media (max-width: 740px) {
     .nav-container, .aside{
         display: none;
     }
