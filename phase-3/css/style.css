@@ -32,9 +32,10 @@ main {
 }
 .aside h2 {
     background-color: burlywood;
+    margin-bottom: 15px;
 }
 .aside p {
-    font-size: 14px;
+    font-size: 10px;
     line-height: 5px;
 }
 .article {
@@ -49,7 +50,7 @@ main {
 
 footer {
     height: auto;
-    padding: 10px;
+    padding: 1px;
     background-color: antiquewhite;
     margin-bottom: auto;
     display: flex;
@@ -58,8 +59,21 @@ footer {
 
 }
 
+img {
+    width: 350PX;
+}
+#FirstSection {
+    width: 150px;
+}
+#SecondSection {
+    width: 150px;
+}
+#ThirdSection {
+    width: 150px;
+}
 
-@media (min-width: 640px) {
+
+@media (max-width: 740px) {
     .nav-container, .aside{
         display: none;
     }
@@ -74,11 +88,11 @@ footer {
         margin-bottom: 20%;
     }
     .article h2 {
-        margin-bottom: 10px;
+        margin-bottom: 20px;
     }
 
     header.class {
-        border: 1px solid black;
+        border: 2px solid black;
     }
     main {
         border: 2px solid black;
