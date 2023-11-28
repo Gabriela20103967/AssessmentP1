@@ -1,7 +1,12 @@
 header {
-    height: 65px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 55px;
     padding: 5px;
     background-color: bisque;
+    margin-bottom: 20px;
+
 }
 .nav-container {
     margin-top: 5px;
@@ -22,6 +27,7 @@ main {
     flex-wrap: wrap;
     justify-content: flex-start;
     align-items: flex-start;
+    margin-bottom: 20px;
 }
 .column {
     flex: 1;
@@ -31,11 +37,12 @@ main {
     flex-basis: 20%;
 }
 .aside h2 {
+    font-size: 20px;
     background-color: burlywood;
 }
 .aside p {
-    font-size: 14px;
-    line-height: 5px;
+    font-size: 20px;
+    line-height: 25px;
 }
 .article {
     display: flex;
@@ -49,13 +56,29 @@ main {
 
 footer {
     height: auto;
-    padding: 10px;
+    padding: 5px;
     background-color: antiquewhite;
-    margin-bottom: auto;
+    margin-bottom: 15px;
     display: flex;
     justify-content: space-between;
+}
 
+.hamburger {
+    display: none;
+    background: bisque;
+    padding: 5px 20px;
+    font-size: 16px;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
 
+.hamburger .bar {
+    display: block;
+    width: 25px;
+    height: 4px;
+    background-color: white;
+    margin: 6px 0;
 }
 
 
@@ -85,5 +108,10 @@ footer {
     }
     footer.class {
         border:1px solid black;
+    }
+    .hamburger {
+        display: block;
+        top: 10px;
+        right: 10px;
     }
 }
