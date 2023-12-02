@@ -4,21 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f7cc8d5-c0e6-4162-a016-e6572d1c47d9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/images/photo-1461749280684-dccba630e2f6.webp" beforeDir="false" />
+    <list default="true" id="aa4b941b-3ea3-4f79-b07c-4cfc16b6d01a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../phase-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../phase-3/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
+  "associatedIndex": 5
 }]]></component>
-  <component name="ProjectId" id="2YngME3NHI8YA8lQ5ySqYhjvbmY" />
+  <component name="ProjectId" id="2YvrLAonkisQe2ZhPEKrTYfrRC9" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -33,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/s_wei/Desktop/WebTech2/AssessmentP1/phase-3/images",
+    "last_opened_file_path": "C:/Users/s_wei/Desktop/WebTech2/AssessmentP1/phase-5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -43,35 +53,24 @@
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\s_wei\Desktop\WebTech2\AssessmentP1\phase-3\images" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\s_wei\Desktop\WebTech2\AssessmentP1\phase-4\css\JavaScript" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1f7cc8d5-c0e6-4162-a016-e6572d1c47d9" name="Changes" comment="" />
-      <created>1701166708197</created>
+      <changelist id="aa4b941b-3ea3-4f79-b07c-4cfc16b6d01a" name="Changes" comment="" />
+      <created>1701416835511</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1701166708197</updated>
-      <workItem from="1701166709259" duration="6752000" />
+      <updated>1701416835511</updated>
+      <workItem from="1701416836561" duration="12850000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

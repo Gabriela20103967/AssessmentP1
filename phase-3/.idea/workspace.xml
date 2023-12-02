@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f7cc8d5-c0e6-4162-a016-e6572d1c47d9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/images/photo-1461749280684-dccba630e2f6.webp" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phase-4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phase-4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phase-4/.idea/phase-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phase-4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phase-4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phase-4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phase-4/content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phase-4/css/elad-reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phase-4/css/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phase-4/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phase-4/images/JavaScriptJoke.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phase-4/images/ProgrammingJoke.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phase-4/images/UserError.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phase-4/images/technology.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phase-4/phase-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phase-4/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/../phase-4/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phase-4/evidence/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/../phase-4/evidence/.keep" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +31,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2YngME3NHI8YA8lQ5ySqYhjvbmY" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -33,7 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/s_wei/Desktop/WebTech2/AssessmentP1/phase-3/images",
+    "last_opened_file_path": "C:/Users/s_wei/Desktop/WebTech2/AssessmentP1/phase-4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,6 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701166708197</updated>
       <workItem from="1701166709259" duration="6752000" />
+      <workItem from="1701399355389" duration="1633000" />
     </task>
     <servers />
   </component>
