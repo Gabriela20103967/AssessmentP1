@@ -41,7 +41,7 @@ main {
     background-color: burlywood;
 }
 .aside p {
-    font-size: 20px;
+    font-size: 10px;
     line-height: 25px;
 }
 .article {
@@ -107,6 +107,7 @@ footer {
 label{
     display: block;
     padding: 4px 5px;
+    text-decoration: underline;
 }
 input{
     padding: 2px 5px;

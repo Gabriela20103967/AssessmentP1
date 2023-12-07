@@ -4,6 +4,18 @@ document.getElementById("hobbiesForm").addEventListener('submit', function (even
     const apikey = 'qzDkKVYk+cJ9nuZyC3xm3w==YxGqv6hkKMeSr4cb';
     const category = document.getElementById('hobbies').value.toLowerCase();
 
+    const validHobbies = ['education', 'general', 'collection', 'sports_and_outdoors', 'observation', 'competition'];
+    const selectedHobby = document.getElementById('hobbies').value;
+
+    if(!selectedHobby) {
+        alert('Please choose a hobby from the list.');
+        return;
+    }
+    if(!validHobbies.includes(selectedHobby)){
+        alert('Error: Please select o type a valid option in the list.');
+        return;
+    }
+
     fetch(`https://api.api-ninjas.com/v1/hobbies?category=${category}`, {
         headers: {
             'X-Api-Key': apikey
