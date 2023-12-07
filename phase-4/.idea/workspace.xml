@@ -6,15 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="aa4b941b-3ea3-4f79-b07c-4cfc16b6d01a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/JavaScript/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/elad-reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/elad-reset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/JavaScriptJoke.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/JavaScriptJoke.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ProgrammingJoke.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/ProgrammingJoke.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UserError.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/UserError.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/technology.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/technology.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +71,7 @@
       <workItem from="1701416836561" duration="12850000" />
       <workItem from="1701702942999" duration="1152000" />
       <workItem from="1701832482328" duration="1780000" />
-      <workItem from="1701945843799" duration="2464000" />
+      <workItem from="1701945843799" duration="3669000" />
     </task>
     <servers />
   </component>
